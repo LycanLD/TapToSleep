@@ -10,7 +10,7 @@ Should work on **Android 15's Pixel Launcher** and **below** too. (Make an issue
 
 | LSPosed Manager | Home settings toggle |
 | --- | --- |
-| <img src="assets/GIT/in-manager.jpg" alt="TapToSleep in LSPosed Manager" width="320"> | <img src="assets/GIT/settings.jpg" alt="Double tap to sleep toggle in Home settings" width="320"> |
+| <img src="assets/GIT/in_manager.jpg" alt="TapToSleep in LSPosed Manager" width="320"> | <img src="assets/GIT/settings.jpg" alt="Double tap to sleep toggle in Home settings" width="320"> |
 
 ## Requirements
 
