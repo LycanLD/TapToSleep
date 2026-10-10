@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TapToSleep</string>
+    <string name="xposed_description">Double tap an empty area of the Pixel Launcher home screen to turn the screen off. Adds a toggle under Home settings.</string>
+    <string-array name="xposed_scope">
+        <item>com.google.android.apps.nexuslauncher</item>
+    </string-array>
+</resources>
